@@ -83,11 +83,11 @@ Registration page:
 
 Payment : 
 
-![Ronflex2](https://user-images.githubusercontent.com/53110403/208311427-fa090b02-ce51-4f30-b253-5f0f4d6eab2a.jpg)
+![Ronflex3](https://user-images.githubusercontent.com/53110403/208311428-5fd43bb6-e2dc-4032-93a2-21afcef82589.jpg)
 
 Payment  Confirmation : 
 
-![Ronflex3](https://user-images.githubusercontent.com/53110403/208311428-5fd43bb6-e2dc-4032-93a2-21afcef82589.jpg)
+![Ronflex2](https://user-images.githubusercontent.com/53110403/208311427-fa090b02-ce51-4f30-b253-5f0f4d6eab2a.jpg)
 
 Backend :
 
