@@ -1,0 +1,16 @@
+.yogaHeader {
+    text-align: center;
+    width: 100%;
+    font-size: 2rem;
+    color: #080c0f;
+    padding-top: 5rem;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+@media screen and (max-width:800px) {
+    .yogaHeader {
+        position: relative;
+        top: 7vh;
+        font-size: 6vw;
+    }
+}

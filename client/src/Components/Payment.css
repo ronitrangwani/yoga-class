@@ -1,0 +1,132 @@
+input {
+    outline: none;
+    border: none;
+    border-bottom: 2px solid grey;
+    transition: .5s;
+}
+
+input:focus {
+    border-bottom: 2px solid #3399ff;
+}
+
+.paymentContainer {
+    display: none;
+    flex-direction: column;
+    width: 30vw;
+    margin: auto;
+    position: relative;
+    top: 10vh;
+    align-items: flex-start;
+    border-radius: 2px 2px;
+    background-color: white;
+}
+
+.paymentContainer .amountDisclaimer {
+    font-size: large;
+}
+
+.paymentContainer .optionsHeader {
+    margin: 20px 0px;
+    position: center;
+}
+
+.paymentContainer .toCompletion {
+    background: none;
+    border: none;
+    margin: 10px 0px;
+    transition: .5s;
+    height: 50px;
+    width: 100%;
+}
+
+.paymentContainer .toCompletion:hover {
+    color: white;
+    background-color: black;
+}
+
+.paymentContainer .optionDiv {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.paymentContainer .optionDiv>label {
+    margin: 0px 5px;
+}
+
+.paymentContainer .cardDetailsDiv {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.paymentContainer .cardDetailsDiv>* {
+    margin: 5px 0px;
+}
+
+.paymentContainer .upiDiv,
+.cardDiv {
+    margin: 15px 0px;
+}
+
+.upiDiv {
+    padding-top: 2rem;
+}
+
+.card {
+    font-size: large;
+}
+
+.cardDetailsDiv {
+    padding-left: 3rem;
+    padding-top: 1rem;
+}
+
+.UpiDetailsDiv {
+    padding-left: 3rem;
+    padding-top: 1rem;
+}
+
+.optionsHeader {
+    font-weight: bolder;
+}
+
+.paymentContainer {
+    border: 2px solid black;
+    padding: 3%;
+    border-radius: 10%;
+    width: fit-content;
+}
+
+.innerDiv {
+    padding-left: 15%;
+    padding-top: 5%;
+}
+
+.toCompletion {
+    background: none;
+    border: none;
+    margin: 10px 0px;
+    transition: .5s;
+    height: 50px;
+    width: fit-content;
+}
+
+.optionsHeader {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+label {
+    font-weight: bold;
+    font-size: 1.2em;
+}
+
+.optionsHeader {
+    text-align: center;
+    font-size: 1.5em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
